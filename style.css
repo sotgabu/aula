@@ -1,0 +1,15 @@
+h1{
+    color: lightpink;
+    font-size: 50px;
+    text-align: center;
+}
+p{ color: darkred;
+    font-size: 30px;
+    text-align: center;
+}
+.imagem-container{
+    display: flex;
+justify-content: center;
+height: 100px;
+}
+img
